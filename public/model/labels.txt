@@ -1,0 +1,2 @@
+Filled_seats
+Vacant_seats
